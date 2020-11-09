@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(31, 32, 34) !important;
+}
+h1 {
+    color : rgb(22, 211, 170);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+    font-size: 325% !important;
+    text-decoration: underline !important;
+    text-align: center !important;
+}
+p {
+    color: rgba(247, 247, 247, 0.904) !important;
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+    font-size: 120% !important;
+}
+div {
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+}
